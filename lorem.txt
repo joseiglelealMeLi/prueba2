@@ -1,0 +1,1 @@
+Escribiendo dentro de lorem.txt con el comando nano
